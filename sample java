@@ -1,6 +1,5 @@
-class simple {
-public static void main (string args [])}
-
-system.out.println("welcome to cloud knowledges");
-}
+public class Simple {
+    public static void main(String[] args) {
+        System.out.println("Welcome to Cloud Knowledge");
+    }
 }
